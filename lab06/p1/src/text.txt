@@ -1,0 +1,16 @@
+ping
+ping abc
+
+count
+count a b c
+count a
+count a             b
+   count a             b   
+TIMES
+times
+times
+times abc
+
+fibonacci 11
+
+stop
